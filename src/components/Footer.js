@@ -1,0 +1,29 @@
+import React from 'react'
+import './Footer.css'
+
+const Footer = () => {
+  return (
+    <div className='footer'>
+        <div className='container'>
+            <ul>
+                <li className='nav-item'>
+                    <a href='/'>Home</a>
+                </li>
+                <li className='nav-item'>
+                    <a href='/'>About</a>
+                </li>
+                <li className='nav-item'>
+                    <a href='/'>SovTech</a>
+                </li>
+            </ul>
+            <div className='bottem'>
+                <span className='line'></span>
+                <p>2022, All rights reserved</p>
+            </div> 
+
+        </div>
+    </div>
+  )
+}
+
+export default Footer
