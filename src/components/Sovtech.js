@@ -9,19 +9,13 @@ const Sovtech = () => {
             <span className='line'></span>
             <div className='content'>
                 <div className='card'>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                    <p><span>Banele Mjaji</span></p>
-                    <p>unknown - unknown</p>
+                    <p>I'm looking to kickstart my career into Software Engineering and SovTech aligns with my goal or vision to use technology to provide solutions and bring simplicity to everyday functions to the world.</p>
                 </div>
                 <div className='card'>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                    <p><span>Banele Mjaji</span></p>
-                    <p>unknown - unknown</p>
+                    <p>A statement that inspired me - "We proud of taking Silicon Valley technologies and translating them into uniquely African solutions." - Gerald Neves.</p>
                 </div>
                 <div className='card'>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                    <p><span>Banele Mjaji</span></p>
-                    <p>unknown - unknown</p>
+                    <p>SovTech provides services to some of the reputable brands in the world. I look forward having an opportunity to work as part of the team as it will be very beneficial to my growth, learning and confidence within the field that I have chosen.</p>
                 </div>
             </div>
         </div>

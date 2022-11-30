@@ -5,9 +5,9 @@ const Hero = () => {
     return (
         <div className='hero'>
             <div className='content'>
-                <p>Hi Everyone 👋 </p>
+                <p>Hello World,👋 </p>
                 <p>I am Banele Mjaji</p>
-                <p>This is my mini portfolio for SovTech</p>
+                <p>This is my Software Engineer challenge for the SovTech Graduate Program.</p>
             </div>
         </div>
     )
