@@ -7,6 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ```bash
+npm i
+&
 npm start
 
 ```
@@ -15,4 +17,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Link to deployed version
 
-[SovTech Challenge]()
+[SovTech Challenge](https://banelmjajiportfolio.netlify.app)

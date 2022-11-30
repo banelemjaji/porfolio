@@ -10,6 +10,11 @@
     background-color: rgba(0, 0, 0, .9);
 }
 
+.header .logo{
+    color: #ffffff;
+    font-weight: 600;
+}
+
 .header .nav-menu a{
     color: #ffffff;
 }
